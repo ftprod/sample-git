@@ -1,1 +1,1 @@
-"# sample-git" 
+https://tailwindcss.com/docs/installation/play-cdn
